@@ -1,5 +1,8 @@
-description: A basic hasura project serving static files
-keywords: getting-started, nginx, static-files
-media: {}
-name: hello-nginx
+description: Tree Simulation with D3.js
+gitUrl: https://github.com/anirudhmurali/d3-simulation
+keywords: d3.js, tree, static-files
+media:
+  images:
+  - https://raw.githubusercontent.com/anirudhmurali/d3-simulation/master/d3.gif
+name: tree-simulation-d3
 platformVersion: v0.15.3
